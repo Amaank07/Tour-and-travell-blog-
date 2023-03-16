@@ -13,7 +13,7 @@ export const MenuItems = [
     },
     {
         title : "Serivce",
-        url : "/contact",
+        url : "/service",
         cName : "nav-links",
         icon : "fa-solid fa-briefcase"
     },
