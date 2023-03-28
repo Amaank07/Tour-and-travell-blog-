@@ -6,7 +6,7 @@ function Home() {
         <>
             <Navbar/>
             <Hero
-                cName="Hero"
+                cName="hero"
                 heroImage={HomeImg}
                 title="Your Journey Your Story"
                 text="Choose Your FAvourite Destination"
